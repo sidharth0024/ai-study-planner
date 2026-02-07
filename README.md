@@ -2,6 +2,9 @@ AI Study Planner for Engineering Students 🚀
 🎯 Problem Solved
 Engineering students struggle with complex subjects, prerequisites, deadlines, and limited study time. Traditional planners fail because they don't understand cognitive load, topic dependencies, and personal confidence levels.
 
+As, I am a Full Stack Web-Developer Intern I have created a Effective Web Application based Solution on this problem.
+My solution has Simple and Fast Paced UI so no Time Wastage and Easy Print Outs of the Generated Stratergy and much more features!
+
 My solution creates SMART study plans that:
 
 Allocate more time to weak subjects automatically
@@ -11,6 +14,8 @@ Schedule high-focus topics during your best hours
 Map prerequisites so you don't get stuck
 
 Prevent cramming with balanced daily loads
+
+ITS 100% REAL-TIME and WORKING because I have Created it on my VS Code and Tested this on my Local Host. So it's not just lines of Code it is a ACTUAL REAL WORLD based SOLUTION. 
 
 ✨ Key Features
 1. Smart Time Allocation
